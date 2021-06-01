@@ -23,6 +23,5 @@ This is test project.  I know it is not serious.
 
 This is test project.  I know it is not serious.
 
-Asker suскs.
 
 
